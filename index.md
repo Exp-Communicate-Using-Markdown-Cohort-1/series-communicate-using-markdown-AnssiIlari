@@ -11,3 +11,6 @@
 This is how you print in python
 print('Hello World!')
 ```
+- [ ] Stand on your head
+- [ ] Pet a cat
+- [ ] Always take a towel with you
